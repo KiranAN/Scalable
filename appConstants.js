@@ -6,7 +6,7 @@ var appConstants = (function constants(){
 		GET:"GET",
 		POST:"POST",
 		JSON_TYPE:"application/json",
-		BINARY_TYPE:"application/octet-stream"
+		BINARY_TYPE:"application/octet-stream",
 		BASE_URL:'/api/'
 	};  
 	return constants;
