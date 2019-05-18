@@ -12,3 +12,4 @@ App.Modules.EventsService = (function EventsModule(notifier){
 	return service;
   
 })(App.Modules.NotifierService);
+https://medium.com/@kiranan1988/developing-custom-scalable-vanilla-javascript-app-39a54d026cd5
